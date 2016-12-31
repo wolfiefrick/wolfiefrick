@@ -1,4 +1,4 @@
-# wolfiefrick
+# Welcome to my repository!
 
 Hello, world! My name is Wolfgang Frick, and I'm a self-taught graphic designer and web developer. I work on mainly frivolous pursuits in the development world, like small games.
 
